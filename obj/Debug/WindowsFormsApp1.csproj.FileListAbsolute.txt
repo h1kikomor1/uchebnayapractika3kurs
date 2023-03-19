@@ -1,0 +1,29 @@
+C:\Users\79248\Desktop\Учеба КИТ\3 курс\ТРПО ИА Тестирование и разработка программного обеспечения\Лаба №8 30.09.2022\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\79248\Desktop\Учеба КИТ\3 курс\ТРПО ИА Тестирование и разработка программного обеспечения\Лаба №8 30.09.2022\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\79248\Desktop\Учеба КИТ\3 курс\ТРПО ИА Тестирование и разработка программного обеспечения\Лаба №8 30.09.2022\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\79248\Desktop\Учеба КИТ\3 курс\ТРПО ИА Тестирование и разработка программного обеспечения\Лаба №8 30.09.2022\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\79248\Desktop\Учеба КИТ\3 курс\ТРПО ИА Тестирование и разработка программного обеспечения\Лаба №8 30.09.2022\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Авторизация.resources
+C:\Users\79248\Desktop\Учеба КИТ\3 курс\ТРПО ИА Тестирование и разработка программного обеспечения\Лаба №8 30.09.2022\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\79248\Desktop\Учеба КИТ\3 курс\ТРПО ИА Тестирование и разработка программного обеспечения\Лаба №8 30.09.2022\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\79248\Desktop\Учеба КИТ\3 курс\ТРПО ИА Тестирование и разработка программного обеспечения\Лаба №8 30.09.2022\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\79248\Desktop\Учеба КИТ\3 курс\ТРПО ИА Тестирование и разработка программного обеспечения\Лаба №8 30.09.2022\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\79248\Desktop\Учеба КИТ\3 курс\ТРПО ИА Тестирование и разработка программного обеспечения\Лаба №8 30.09.2022\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\79248\Desktop\Учеба КИТ\3 курс\ТРПО ИА Тестирование и разработка программного обеспечения\Лаба №8 30.09.2022\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Регистрация.resources
+C:\Users\79248\Desktop\Учеба КИТ\3 курс\ТРПО ИА Тестирование и разработка программного обеспечения\Лаба №8 30.09.2022\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ГлавноеМеню.resources
+C:\Users\79248\Desktop\Учеба КИТ\3 курс\ТРПО ИА Тестирование и разработка программного обеспечения\Лаба №8 30.09.2022\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ЗабылиПароль.resources
+C:\Users\79248\Desktop\Учеба КИТ\3 курс\ТРПО ИА Тестирование и разработка программного обеспечения\Лаба №8 30.09.2022\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.НоваяЗапись.resources
+C:\Users\79248\Desktop\Учеба КИТ\3 курс\УП 3 курс\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\79248\Desktop\Учеба КИТ\3 курс\УП 3 курс\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\79248\Desktop\Учеба КИТ\3 курс\УП 3 курс\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\79248\Desktop\Учеба КИТ\3 курс\УП 3 курс\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\79248\Desktop\Учеба КИТ\3 курс\УП 3 курс\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ГлавнаяФорма.resources
+C:\Users\79248\Desktop\Учеба КИТ\3 курс\УП 3 курс\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ЗабылиПароль.resources
+C:\Users\79248\Desktop\Учеба КИТ\3 курс\УП 3 курс\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ГлавноеМеню.resources
+C:\Users\79248\Desktop\Учеба КИТ\3 курс\УП 3 курс\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Авторизация.resources
+C:\Users\79248\Desktop\Учеба КИТ\3 курс\УП 3 курс\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\79248\Desktop\Учеба КИТ\3 курс\УП 3 курс\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.НоваяЗапись.resources
+C:\Users\79248\Desktop\Учеба КИТ\3 курс\УП 3 курс\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Регистрация.resources
+C:\Users\79248\Desktop\Учеба КИТ\3 курс\УП 3 курс\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\79248\Desktop\Учеба КИТ\3 курс\УП 3 курс\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\79248\Desktop\Учеба КИТ\3 курс\УП 3 курс\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\79248\Desktop\Учеба КИТ\3 курс\УП 3 курс\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
